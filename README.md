@@ -17,7 +17,7 @@ The ['FCQR' vignette]() will provide a good start point for Functional Censored 
 
 References
 ==========
-Fei Jiang<sup>+</sup>., Qing Cheng$^*$, Guosheng Yin, and Haipeng Shen.(2020) Functional Censored Quantile Regression.
+Fei Jiang<sup>+</sup>, Qing Cheng<sup>*</sup>, Guosheng Yin, and Haipeng Shen.(2020) Functional Censored Quantile Regression. Journal of the American Statistical Association,
 
 Development
 ===========
