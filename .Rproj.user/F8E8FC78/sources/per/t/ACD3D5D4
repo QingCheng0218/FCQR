@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1621522955333.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2642754719",
+    "id" : "ACD3D5D4",
+    "lastKnownWriteTime" : 1621523086,
+    "last_content_update" : 1621523087001,
+    "path" : "~/NutstoreFiles/Nutstore/CQR2revised/Rpackage/FCQR/R/SimCore.R",
+    "project_path" : "R/SimCore.R",
+    "properties" : {
+        "cursorPosition" : "22,42",
+        "scrollLine" : "8",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
