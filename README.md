@@ -13,7 +13,7 @@ remotes::install_github("QingCheng0218/FCQR@main")
 
 Usage
 =========
-The ['FCQR' vignette]() will provide a good start point for Functional Censored Quantile Regression using **FCQR** package. 
+The ['FCQR' vignette](https://github.com/QingCheng0218/FCQR/blob/main/vignettes/FCQR.pdf) will provide a good start point for Functional Censored Quantile Regression using **FCQR** package. 
 
 References
 ==========
