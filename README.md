@@ -22,5 +22,5 @@ Fei Jiang<sup>+</sup>, Qing Cheng<sup>*</sup>, Guosheng Yin, and Haipeng Shen. F
 Development
 ===========
 
-This package is developed and maintained by Qing Cheng (qing.cheng@duke-nus.edu.sg).
+This package is developed and maintained by Qing Cheng (qingcheng0218@gmail.com).
  
