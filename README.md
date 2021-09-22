@@ -17,7 +17,7 @@ The ['FCQR' vignette](https://github.com/QingCheng0218/FCQR/blob/main/vignettes/
 
 References
 ==========
-Fei Jiang<sup>+</sup>, Qing Cheng<sup>*</sup>, Guosheng Yin, and Haipeng Shen. Functional Censored Quantile Regression. Journal of the American Statistical Association. 2020. 931-944.
+Fei Jiang<sup>+</sup>, Qing Cheng<sup>*</sup>, Guosheng Yin, and Haipeng Shen. [Functional Censored Quantile Regression. Journal of the American Statistical Association. 2020. 931-944.](https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1602047)
 
 Development
 ===========
